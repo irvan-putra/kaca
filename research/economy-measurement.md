@@ -85,3 +85,38 @@ An unverified example is the China seaborne export estimate for 14 October chang
 
 - UN Comtrade Help Center, Bilateral asymmetries: <https://uncomtrade.org/docs/bilateral-asymmetries/>
 - Referenced IAS 7 PDF link (behind subscription, content unverified): <https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards/english/2022/issued/part-a/ias-7-statement-of-cash-flows.pdf>
+
+
+## Visuals from the forwarded Rapi research
+
+The figures below preserve the supplied Rapi research graphics and their visible branding. The two historical charts with a personal header removed are identified in their captions; no chart content or source note was changed. Figures not specifically marked verified remain unverified, historical, or conceptual as stated. No reuse license or public-domain status was provided or verified; this page makes no license claim. Select an image to open its full-size file.
+
+<figure class="research-figure">
+  <a href="{{ '/assets/rapi/economy-factor-funnel.png' | relative_url }}"><img src="{{ '/assets/rapi/economy-factor-funnel.png' | relative_url }}" alt="Rapi diagram showing household, business and government, and global factors feeding into demand and supply, then production, transactions, jobs, income, prices, and purchasing power"></a>
+  <figcaption><strong>Factor diagram.</strong> Original Rapi image; a simplified set of conceptual paths, not an estimated causal model or a comprehensive feedback network.</figcaption>
+</figure>
+
+<figure class="research-figure">
+  <a href="{{ '/assets/rapi/economy-research-workflow.png' | relative_url }}"><img src="{{ '/assets/rapi/economy-research-workflow.png' | relative_url }}" alt="Tall Rapi proposed research workflow from hypothesis and panel sampling through citizen evidence, researcher verification, hypothesis tests, government improvements, and aggregate publication"></a>
+  <figcaption><strong>Proposed research workflow.</strong> Original Rapi image. This is a proposed design, not an executed study or a government commitment. Open the full-size image for legible text.</figcaption>
+</figure>
+
+<figure class="research-figure">
+  <a href="{{ '/assets/rapi/vehicle-sales-research.png' | relative_url }}"><img src="{{ '/assets/rapi/vehicle-sales-research.png' | relative_url }}" alt="Historical Rapi charts comparing Indonesian motorcycle distribution and car wholesale versus retail figures through September 2026"></a>
+  <figcaption><strong>Vehicle-sales research graphic.</strong> Historical October 2026 Rapi graphic. Figures were not independently reverified here. Domestic motorcycle distribution, car wholesale, and retail are different measures; their directions do not establish a cause. The personal header was removed; chart and source notes are otherwise unchanged.</figcaption>
+</figure>
+
+<figure class="research-figure">
+  <a href="{{ '/assets/rapi/expectations-and-scenarios.png' | relative_url }}"><img src="{{ '/assets/rapi/expectations-and-scenarios.png' | relative_url }}" alt="Historical Rapi graphic comparing Bank Indonesia consumer expectations and current-conditions indices and showing a conceptual volume-and-price scenario matrix"></a>
+  <figcaption><strong>Expectations and scenario graphic.</strong> Historical Rapi graphic. The 0–140 range is the chart's axis, not the index definition. The Nov–Dec 2026 predictions are historical and unvalidated, not a current forecast; the scenario matrix is conceptual, not observed data or probability. The personal header was removed; chart and source notes are otherwise unchanged.</figcaption>
+</figure>
+
+<figure class="research-figure">
+  <a href="{{ '/assets/rapi/mdiy-and-trade-research.png' | relative_url }}"><img src="{{ '/assets/rapi/mdiy-and-trade-research.png' | relative_url }}" alt="Historical Rapi research graphic on MDIY sales and cash flow and Indonesia–US HS85 trade differences"></a>
+  <figcaption><strong>MDIY and trade research graphic.</strong> Historical Rapi graphic. Figures were not independently reverified here. The cash-flow comparison mixes six- and twelve-month periods and is not a growth comparison. The trade discrepancy needs attribution, timing, and goods-detail checks; it is not evidence of misconduct.</figcaption>
+</figure>
+
+<figure class="research-figure">
+  <a href="{{ '/assets/rapi/credit-and-inflation-slide-sample.png' | relative_url }}"><img src="{{ '/assets/rapi/credit-and-inflation-slide-sample.png' | relative_url }}" alt="Two original Rapi presentation slides comparing credit growth with deposits and showing inflation series"></a>
+  <figcaption><strong>Historical presentation sample.</strong> Two Rapi slides from October 2026 about credit/deposits and inflation. This is a separate presentation artifact, not a new measurement; the figures have not been independently reverified here.</figcaption>
+</figure>

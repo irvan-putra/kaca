@@ -109,7 +109,7 @@ The accompanying file states the figures generally use each bank's individual co
 
 The chart states colors follow the KBMI groups. The boundaries listed above are KBMI 4 above Rp70 trillion; KBMI 3 above Rp14 trillion up to Rp70 trillion; KBMI 2 above Rp6 trillion up to Rp14 trillion; and KBMI 1 up to Rp6 trillion. Those boundaries are verified against POJK 12/POJK.03/2021, but this does not verify the capital values or actual grouping of each bank.
 
-All core capital figures and their coverage still need verification against each bank's published reports. The change in the no-figure list from the first to the second version is also unexplained. The image and Excel file are not republished; this note has not built a treemap from verified figures. Do not use KBMI boundaries as a substitute for actual values.
+All core capital figures and their coverage still need verification against each bank's published reports. The change in the no-figure list from the first to the second version is also unexplained. The Kaji source note did not republish the image or Excel file; this Kaca presentation adds three original Rapi visuals below for context and links the supplied source ledger for inspection. The two treemaps are reproduced as historical versions, without correcting their figures or rebuilding them from verified data. Do not use KBMI boundaries as a substitute for actual values.
 
 ## Open items
 
@@ -125,3 +125,29 @@ All core capital figures and their coverage still need verification against each
 - Rapor Emiten, Banks subindustry: <https://raporemiten.com/e/subindustri/banks/>
 - KSEI, registered shares list BANK: <https://web.ksei.co.id/services/registered-securities/shares/lc/BANK>
 - LPS, Laporan Kelembagaan LPS Triwulan II 2025: <https://lps.go.id/laporan-kelembagaan-lps-triwulan-ii-2025/>
+
+
+## Source ledger
+
+<a href="{{ '/assets/rapi/bank-core-capital-source-ledger.xlsx' | relative_url }}">Download the supplied 48-row core-capital source ledger (XLSX)</a>. It includes 43 numeric rows, including four December 2025 fallback figures among the figures titled June 2026, and five n.a. rows. The workbook carries source URLs and extraction notes, including cases where the source PDF text extraction was truncated and figures were taken from indexed snippets. The values have not been independently confirmed against the source tables; this is not a verified, current, single-period, or official consolidated dataset.
+
+## Visuals added to this Kaca presentation
+
+These three source visuals were not in the Kaji note at the linked snapshot. The Rapi-branded graphics are shown as supplied research artifacts, not as independently verified datasets. No reuse license or public-domain status was provided or verified; this page makes no license claim. Select an image to open the full-size file.
+
+<figure class="research-figure">
+  <a href="{{ '/assets/rapi/kbmi-ranges.png' | relative_url }}"><img src="{{ '/assets/rapi/kbmi-ranges.png' | relative_url }}" alt="Rapi diagram of Indonesian KBMI capital-range thresholds, shown on a linear Rp0 to Rp80 trillion scale"></a>
+  <figcaption><strong>KBMI range diagram.</strong> Original Rapi labels are in Indonesian. It shows category thresholds, not actual bank capital figures, bank counts, or per-bank group placement. The threshold ranges are discussed above; per-bank values have not been verified.</figcaption>
+</figure>
+
+<figure class="research-figure">
+  <a href="{{ '/assets/rapi/bank-core-capital-2025-partial.png' | relative_url }}"><img src="{{ '/assets/rapi/bank-core-capital-2025-partial.png' | relative_url }}" alt="First Rapi treemap version of bank core-capital figures, labeled 31 December 2025"></a>
+  <figcaption><strong>First historical treemap version.</strong> The graphic claims values for 37 of 48 tickers as of 31 December 2025; 11 tickers are unweighted. Values, coverage, and source extraction remain unverified. It is not a current common-date dataset.</figcaption>
+</figure>
+
+<p class="visual-warning"><strong>Read this before the second treemap:</strong> its original title says 30 June 2026, but the underlying 48-row source lists 39 figures dated 30 June 2026, four dated 31 December 2025 (BNGA, NISP, BMAS, MASB), and five n.a. values. Some extracted figures were not checked on the source tables.</p>
+
+<figure class="research-figure">
+  <a href="{{ '/assets/rapi/bank-core-capital-2026-mixed-period.png' | relative_url }}"><img src="{{ '/assets/rapi/bank-core-capital-2026-mixed-period.png' | relative_url }}" alt="Second Rapi bank core-capital treemap with its original 30 June 2026 title and mixed-period values"></a>
+  <figcaption><strong>Second historical treemap version.</strong> The original graphic and title are unchanged. Its 43 numeric values span two reporting dates, plus five n.a. rows; values and coverage remain unverified. This image does not replace the missing source checks or establish an official total.</figcaption>
+</figure>

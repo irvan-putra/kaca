@@ -25,5 +25,5 @@ title: Kaca
 <section class="scope" aria-labelledby="scope-heading">
   <h2 id="scope-heading">Sources and limits</h2>
   <p>The five notes are reproduced from the English research files in <a href="https://github.com/irvan-putra/kaji">Kaji</a>, as they stood in the <a href="https://github.com/irvan-putra/kaji/commit/c6798eea79001db880f75415c2d0017e3183dbb2">17 November 2026 source snapshot</a>. Source links and per-section caveats are in each note. External facts can change; check the linked primary sources before relying on time-sensitive claims.</p>
-  <p>No underlying spreadsheet, chart image, private inputs, or unreproduced data are added here. The notes say what was and was not checked.</p>
+  <p>The bank-count and independent-economy notes now include nine supplied Rapi visuals with captions and full-size links. The bank-count note also links the supplied public-source ledger, with its mixed-date and extraction caveats. The images retain Rapi branding; two historical charts have only their personal header removed. Their reuse license and public-domain status were not verified, and no license is asserted. Values and research limits remain stated beside the figures. The private input deck is not included.</p>
 </section>

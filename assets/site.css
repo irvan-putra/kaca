@@ -73,3 +73,8 @@ h3 { font-size: 1.2rem; }
   .page-shell { max-width: none; padding: 0; }
   .note, .note-card { box-shadow: none; }
 }
+
+.research-figure { margin: 1.7rem 0; padding: 1rem; background: #fff; border: 1px solid var(--line); border-radius: 10px; }
+.research-figure img { display: block; width: 100%; height: auto; margin: 0 auto; border-radius: 5px; }
+.research-figure figcaption { margin-top: .75rem; color: var(--muted); font-size: .9rem; line-height: 1.55; }
+.visual-warning { margin: 1.3rem 0; padding: .8rem 1rem; color: #35423d; background: #fff5df; border-left: 4px solid #c98724; border-radius: 0 7px 7px 0; }
