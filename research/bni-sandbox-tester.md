@@ -41,4 +41,4 @@ The source has not been executed; there is no evidence the BNI sandbox flow work
 ## Sources
 
 - The scope of this note is limited to the design summary; the source code is not included.
-- References listed for the initial design: the bni-nodejs SDK README (https://github.com/bni-api/bni-nodejs-sdk/blob/main/README.md) and the Android Gradle Plugin 8.7 release notes (https://developer.android.com/build/releases/agp-8-7-0-release-notes).
+- References listed for the initial design: the bni-nodejs SDK README (<https://github.com/bni-api/bni-nodejs-sdk/blob/main/README.md>) and the Android Gradle Plugin 8.7 release notes (<https://developer.android.com/build/releases/agp-8-7-0-release-notes>).

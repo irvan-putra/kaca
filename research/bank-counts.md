@@ -12,15 +12,15 @@ Research note; sources accessed 17 November 2026. Verification status and scope 
 
 ## Number of banks
 
-- Bank Indonesia records **105 commercial banks (bank umum)** as of July 2025 (Table 3, Banking Sector Indicators). Source: https://www.bi.go.id/id/statistik/ekonomi-keuangan/sski/Documents/Tabel_3.pdf
-- LPS records **1,426 BPR/BPRS** reporting deposit data as of June 2026, consisting of 1,252 conventional BPR and 174 BPRS (quoted by Kontan, 2 Oct 2026). Source: https://keuangan.kontan.co.id/news/lps-catat-simpanan-bpr-dan-bprs-tumbuh-418-jadi-rp-18178-triliun-per-juni-2026
+- Bank Indonesia records **105 commercial banks (bank umum)** as of July 2025 (Table 3, Banking Sector Indicators). Source: <https://www.bi.go.id/id/statistik/ekonomi-keuangan/sski/Documents/Tabel_3.pdf>
+- LPS records **1,426 BPR/BPRS** reporting deposit data as of June 2026, consisting of 1,252 conventional BPR and 174 BPRS (quoted by Kontan, 2 Oct 2026). Source: <https://keuangan.kontan.co.id/news/lps-catat-simpanan-bpr-dan-bprs-tumbuh-418-jadi-rp-18178-triliun-per-juni-2026>
 - **Scope note.** A definitional fact: the BI row counts "Jumlah Bank Perkreditan Rakyat" (1,333 as of July 2025, same table), while the LPS figure counts "BPR/BPRS reporting deposit data" (1,426 as of June 2026). What explains the difference between these two figures is *unverified*.
 - Adding 105 + 1,426 = 1,531 mixes two definitions from two institutions at two dates; it is **not an official total at one date** and is labeled *unverified* as a meaningful total.
-- Single-source, single-period benchmark: the LPS Institutional Report for Q2 2025 records a total of **1,617 banks** (105 commercial banks + 1,512 BPR/BPRS) as of Q2 2025. Source: https://lps.go.id/laporan-kelembagaan-lps-triwulan-ii-2025/ (report sentence: "Jumlah bank pada triwulan II 2025 tercatat sebanyak 1.617 bank, dengan rincian 105 bank umum dan 1.512 BPR/BPRS.")
+- Single-source, single-period benchmark: the LPS Institutional Report for Q2 2025 records a total of **1,617 banks** (105 commercial banks + 1,512 BPR/BPRS) as of Q2 2025. Source: <https://lps.go.id/laporan-kelembagaan-lps-triwulan-ii-2025/> (report sentence: "Jumlah bank pada triwulan II 2025 tercatat sebanyak 1.617 bank, dengan rincian 105 bank umum dan 1.512 BPR/BPRS.")
 
 ## What is a "bank umum"?
 
-"Bank umum" (commercial bank) is the official OJK category name; outside it is Bank Perekonomian Rakyat (BPR), whose services are more limited. According to OJK, since the P2SK Law (Law No. 4 of 2023) Bank Perkreditan Rakyat was renamed Bank Perekonomian Rakyat (BPR). BPR may not accept current-account deposits (giro), may not conduct foreign-exchange activities (except currency exchange), and may not conduct insurance business (except marketing insurance products through cooperation). Source: https://ojk.go.id/id/kanal/perbankan/Pages/Bank-Perkreditan-Rakyat.aspx
+"Bank umum" (commercial bank) is the official OJK category name; outside it is Bank Perekonomian Rakyat (BPR), whose services are more limited. According to OJK, since the P2SK Law (Law No. 4 of 2023) Bank Perkreditan Rakyat was renamed Bank Perekonomian Rakyat (BPR). BPR may not accept current-account deposits (giro), may not conduct foreign-exchange activities (except currency exchange), and may not conduct insurance business (except marketing insurance products through cooperation). Source: <https://ojk.go.id/id/kanal/perbankan/Pages/Bank-Perkreditan-Rakyat.aspx>
 
 Additional note: both bank umum and BPR have conventional and sharia variants (bank umum syariah, BPRS), so the division is not simply "umum vs non-umum".
 
@@ -28,8 +28,8 @@ Additional note: both bank umum and BPR have conventional and sharia variants (b
 
 The list of **48 candidates** below comes from matching two sources (accessed 17 November 2026):
 
-- The Banks subindustry page on Rapor Emiten lists **47 issuers**; the 47 names below match that list. Source: https://raporemiten.com/e/subindustri/banks/
-- **BANK** (Bank Aladin Syariah Tbk, formerly Bank Net Indonesia Syariah) is not on the Rapor Emiten list, but is registered with KSEI on the IDX exchange with Active status, listed 1 February 2021. Source: https://web.ksei.co.id/services/registered-securities/shares/lc/BANK
+- The Banks subindustry page on Rapor Emiten lists **47 issuers**; the 47 names below match that list. Source: <https://raporemiten.com/e/subindustri/banks/>
+- **BANK** (Bank Aladin Syariah Tbk, formerly Bank Net Indonesia Syariah) is not on the Rapor Emiten list, but is registered with KSEI on the IDX exchange with Active status, listed 1 February 2021. Source: <https://web.ksei.co.id/services/registered-securities/shares/lc/BANK>
 
 **Unverified scope:** these 48 names are candidates from matching the two sources above, not an official total of banks listed on the IDX. Each issuer's listing status has not been checked one by one with KSEI/IDX, and the list has not been compared with the official IDX issuer list. This list counts banks as listed share issuers, not the number of shares outstanding, and is not an assessment of whether the shares are actively traded. The classification of each issuer as a commercial bank (conventional or sharia) versus other bank categories has not been verified one by one; do not assume this list covers all bank categories.
 
@@ -95,7 +95,7 @@ To compare scale across banks, OJK groups commercial banks by core capital (POJK
 - KBMI 3: core capital above Rp14 trillion up to Rp70 trillion
 - KBMI 4: core capital above Rp70 trillion (open-ended)
 
-**Verified** against news reports citing POJK 12/POJK.03/2021 (Bisnis, 20 Aug 2021; Sindonews, 23 Aug 2021; Kompas, 22 Aug 2021) and the POJK text at JDIH BPK. POJK text: https://peraturan.bpk.go.id/Read/221984/Peraturan%20OJK%20No.%2012%20Tahun%202021.pdf. News: https://finansial.bisnis.com/read/20210820/90/1431998/ojk-ubah-klasifikasi-bank-umum-dari-buku-menjadi-kbmi-ini-rinciannya
+**Verified** against news reports citing POJK 12/POJK.03/2021 (Bisnis, 20 Aug 2021; Sindonews, 23 Aug 2021; Kompas, 22 Aug 2021) and the POJK text at JDIH BPK. POJK text: <https://peraturan.bpk.go.id/Read/221984/Peraturan%20OJK%20No.%2012%20Tahun%202021.pdf>. News: <https://finansial.bisnis.com/read/20210820/90/1431998/ojk-ubah-klasifikasi-bank-umum-dari-buku-menjadi-kbmi-ini-rinciannya>
 
 Note: KBMI boundaries are **category ranges**, not each bank's actual core capital. Placing each bank into its group requires each bank's core capital figure for the same reporting period. This note has not verified per-bank data.
 
@@ -119,9 +119,9 @@ All core capital figures and their coverage still need verification against each
 
 ## Sources
 
-- Bank Indonesia, Table 3 Banking Sector Indicators: https://www.bi.go.id/id/statistik/ekonomi-keuangan/sski/Documents/Tabel_3.pdf
-- Kontan, "LPS Catat Simpanan BPR dan BPRS Tumbuh 4,18% Jadi Rp 181,78 Triliun per Juni 2026" (2 Oct 2026): https://keuangan.kontan.co.id/news/lps-catat-simpanan-bpr-dan-bprs-tumbuh-418-jadi-rp-18178-triliun-per-juni-2026
-- OJK, Bank Perekonomian Rakyat: https://ojk.go.id/id/kanal/perbankan/Pages/Bank-Perkreditan-Rakyat.aspx
-- Rapor Emiten, Banks subindustry: https://raporemiten.com/e/subindustri/banks/
-- KSEI, registered shares list BANK: https://web.ksei.co.id/services/registered-securities/shares/lc/BANK
-- LPS, Laporan Kelembagaan LPS Triwulan II 2025: https://lps.go.id/laporan-kelembagaan-lps-triwulan-ii-2025/
+- Bank Indonesia, Table 3 Banking Sector Indicators: <https://www.bi.go.id/id/statistik/ekonomi-keuangan/sski/Documents/Tabel_3.pdf>
+- Kontan, "LPS Catat Simpanan BPR dan BPRS Tumbuh 4,18% Jadi Rp 181,78 Triliun per Juni 2026" (2 Oct 2026): <https://keuangan.kontan.co.id/news/lps-catat-simpanan-bpr-dan-bprs-tumbuh-418-jadi-rp-18178-triliun-per-juni-2026>
+- OJK, Bank Perekonomian Rakyat: <https://ojk.go.id/id/kanal/perbankan/Pages/Bank-Perkreditan-Rakyat.aspx>
+- Rapor Emiten, Banks subindustry: <https://raporemiten.com/e/subindustri/banks/>
+- KSEI, registered shares list BANK: <https://web.ksei.co.id/services/registered-securities/shares/lc/BANK>
+- LPS, Laporan Kelembagaan LPS Triwulan II 2025: <https://lps.go.id/laporan-kelembagaan-lps-triwulan-ii-2025/>

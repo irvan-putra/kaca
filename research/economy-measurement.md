@@ -14,7 +14,7 @@ Research note. Sources accessed 17 November 2026; verification status is stated 
 
 1. **Direct activity.** Form a fixed sample across regions and sectors; record businesses opening/closing, visitors, transactions, sales volume, and prices of the same goods; repeat monthly; separate price increases from volume increases. This is a measurement design, not yet run, and does not claim to represent all of Indonesia.
 2. **Non-bank corporate earnings quality.** Read financial statements and their notes over five years; reconcile profit with operating cash flow (IAS 7 as the basis for reading cash flow); trace receivables, inventory, related-party transactions, and one-off gains; compute a value range with conservative assumptions rather than following the market price.
-3. **Trade mirror.** Match Indonesia's exports against partner countries' imports per commodity, volume, value, and period; adjust for valuation differences (CIF vs FOB), recording lags, and goods routing before concluding manipulation exists. **Verified:** the official UN Comtrade page explains common causes of bilateral asymmetry: country attribution (origin vs last known destination), CIF vs FOB valuation, time lags, third countries, customs warehouses, classification differences, and trade-system differences. Source: https://uncomtrade.org/docs/bilateral-asymmetries/
+3. **Trade mirror.** Match Indonesia's exports against partner countries' imports per commodity, volume, value, and period; adjust for valuation differences (CIF vs FOB), recording lags, and goods routing before concluding manipulation exists. **Verified:** the official UN Comtrade page explains common causes of bilateral asymmetry: country attribution (origin vs last known destination), CIF vs FOB valuation, time lags, third countries, customs warehouses, classification differences, and trade-system differences. Source: <https://uncomtrade.org/docs/bilateral-asymmetries/>
 
 Verification note: the IAS 7 link on ifrs.org was behind the IFRS Digital subscription when checked, so the document content at that link is unverified.
 
@@ -22,7 +22,7 @@ Verification note: the IAS 7 link on ifrs.org was behind the IFRS Digital subscr
 
 ### MDIY (PT Daya Intiguna Yasa Tbk, per KSEI), H1 2026 vs H1 2025
 
-- Issuer identity verified: ticker MDIY is PT Daya Intiguna Yasa Tbk according to the KSEI share list. Source: https://web.ksei.co.id/services/registered-securities/shares/lc/MDIY
+- Issuer identity verified: ticker MDIY is PT Daya Intiguna Yasa Tbk according to the KSEI share list. Source: <https://web.ksei.co.id/services/registered-securities/shares/lc/MDIY>
 - Revenue +24.5%; transactions +23.3%; average transaction +0.92%; same-store sales -1.2%. Claimed source: H1 2026 financial statements, semester figures unaudited.
 - Cash after capex and lease payments: -Rp168.9 billion (H1 2025); +Rp654.3 billion (H1 2026); +Rp681.6 billion (12 months to June 2026, calculated as FY2025 + H1 2026 - H1 2025). The first two lines cover six months, the third twelve months; they are not compared as growth. Claimed source: H1 2026 financial statements and Public Expose 2026.
 
@@ -66,7 +66,7 @@ The plan dated 27 Oct 2026 elaborates the framework above into a field protocol.
 
 Proposed test: compare PortWatch cargo-volume estimates with export values at the same ports and periods; if value rises while volume is flat, check commodity prices, goods composition, and the accuracy of the cargo estimate before concluding. Status: proposal, not yet run.
 
-- **Verified:** PortWatch is an IMF/University of Oxford platform with daily satellite-data-based trade volume estimates. An IMF blog (15 Nov 2023) states coverage of 1,400 ports; the PortWatch data page when checked states 1,666 ports. Sources: https://www.imf.org/en/blogs/articles/2023/11/15/climate-change-is-disrupting-global-trade and https://portwatch.imf.org/pages/data-and-methodology
+- **Verified:** PortWatch is an IMF/University of Oxford platform with daily satellite-data-based trade volume estimates. An IMF blog (15 Nov 2023) states coverage of 1,400 ports; the PortWatch data page when checked states 1,666 ports. Sources: <https://www.imf.org/en/blogs/articles/2023/11/15/climate-change-is-disrupting-global-trade> and <https://portwatch.imf.org/pages/data-and-methodology>
 
 ### Recording PortWatch data revisions
 
@@ -74,7 +74,7 @@ For the proposed test, keep the time of each snapshot, the initial estimate, sub
 
 An unverified example is the China seaborne export estimate for 14 October changing from 7.10 million to 8.03 million tons, with revisions of 7-13% over 12-16 October. These figures and the 11 November PortWatch update have not been matched against their source.
 
-**Verified:** IMF Working Paper WP/26/99 (May 2026), "Nowcasting Country-level Trade Estimates using IMF PortWatch" (Arslanalp et al.), states the method can produce and release monthly trade estimates after seven working days, ahead of many countries' official statistics. Source: https://www.imf.org/-/media/files/publications/wp/2026/english/wpiea2026099-source-pdf.pdf
+**Verified:** IMF Working Paper WP/26/99 (May 2026), "Nowcasting Country-level Trade Estimates using IMF PortWatch" (Arslanalp et al.), states the method can produce and release monthly trade estimates after seven working days, ahead of many countries' official statistics. Source: <https://www.imf.org/-/media/files/publications/wp/2026/english/wpiea2026099-source-pdf.pdf>
 
 ## Open items
 
@@ -83,5 +83,5 @@ An unverified example is the China seaborne export estimate for 14 October chang
 
 ## Sources
 
-- UN Comtrade Help Center, Bilateral asymmetries: https://uncomtrade.org/docs/bilateral-asymmetries/
-- Referenced IAS 7 PDF link (behind subscription, content unverified): https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards/english/2022/issued/part-a/ias-7-statement-of-cash-flows.pdf
+- UN Comtrade Help Center, Bilateral asymmetries: <https://uncomtrade.org/docs/bilateral-asymmetries/>
+- Referenced IAS 7 PDF link (behind subscription, content unverified): <https://www.ifrs.org/content/dam/ifrs/publications/pdf-standards/english/2022/issued/part-a/ias-7-statement-of-cash-flows.pdf>
