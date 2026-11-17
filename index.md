@@ -22,6 +22,10 @@ title: Kaca
   {% endfor %}
   </ul>
 </section>
+<section class="scope" aria-labelledby="proposal-heading">
+  <h2 id="proposal-heading">Additional public-safe proposal</h2>
+  <p><a href="{{ '/research-plan/' | relative_url }}">Research plan: Measuring the Economy from Below</a> is a separately labeled 15-slide public-safe adaptation, not a field report. It has editable PowerPoint and PDF downloads; the source version remains private.</p>
+</section>
 <section class="scope" aria-labelledby="scope-heading">
   <h2 id="scope-heading">Sources and limits</h2>
   <p>The five notes are reproduced from the English research files in <a href="https://github.com/irvan-putra/kaji">Kaji</a>, as they stood in the <a href="https://github.com/irvan-putra/kaji/commit/c6798eea79001db880f75415c2d0017e3183dbb2">17 November 2026 source snapshot</a>. Source links and per-section caveats are in each note. External facts can change; check the linked primary sources before relying on time-sensitive claims.</p>
