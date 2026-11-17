@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <title>{% if page.title %}{{ page.title | escape }} · {% endif %}{{ site.title | escape }}</title>
+  <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Kaca home">Kaca<span> / Rapi research</span></a>
+    <nav aria-label="Main navigation">
+      <a href="{{ '/' | relative_url }}">Overview</a>
+      <a href="{{ '/#notes' | relative_url }}">Five notes</a>
+      <a href="https://github.com/irvan-putra/kaca">Source</a>
+    </nav>
+  </header>
+  <main class="page-shell">
+    {% if page.permalink != '/' %}
+      <p class="back-link"><a href="{{ '/' | relative_url }}">← All research notes</a></p>
+      <article class="note">
+        {% if page.status %}<p class="status">{{ page.status | escape }}</p>{% endif %}
+        <div class="provenance">
+          <span>Research note</span>
+          {% if page.source_url %}<span>Source: <a href="{{ page.source_url }}">Kaji original</a></span>{% endif %}
+          <span>Source snapshot: <a href="https://github.com/irvan-putra/kaji/commit/c6798eea79001db880f75415c2d0017e3183dbb2">17 Nov 2026</a></span>
+        </div>
+        {{ content }}
+        <p class="source-footer">This is a copy of a note in <a href="https://github.com/irvan-putra/kaji">Kaji</a>. Follow its links for cited sources. Verification and scope caveats remain in the note.</p>
+      </article>
+    {% else %}
+      {{ content }}
+    {% endif %}
+  </main>
+  <footer class="site-footer">
+    <p>Kaca presents five research notes from <a href="https://github.com/irvan-putra/kaji">Kaji</a>. It is a reading site, not a live data service.</p>
+    <p>Source snapshot: 17 November 2026 · <a href="https://github.com/irvan-putra/kaji/commit/c6798eea79001db880f75415c2d0017e3183dbb2">Kaji commit c6798ee</a>.</p>
+  </footer>
+</body>
+</html>

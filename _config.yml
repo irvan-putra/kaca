@@ -1,0 +1,15 @@
+title: Kaca
+subtitle: Rapi research notes
+description: Five public research notes on banking, economic measurement, and research design.
+url: https://irvan-putra.github.io
+baseurl: /kaca
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins: []
+exclude:
+  - README.md
+  - .github
+  - Gemfile
+  - Gemfile.lock

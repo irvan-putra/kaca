@@ -1,0 +1,25 @@
+- title: The number of banks in Indonesia
+  path: /research/bank-counts/
+  summary: A dated count with scope differences, bank-category context, and two separate treemap versions whose figures remain unverified.
+  status: Mixed-period figures; no single latest total established
+  source: 2026-11-17-jumlah-bank-indonesia.md
+- title: Mother's maiden name in bank services
+  path: /research/mothers-name/
+  summary: Separates digital authentication's knowledge-factor example from the SLIK debtor-data field, with regulation-based verification and open questions.
+  status: Partly verified; mandatory-field claims remain unverified
+  source: nama-ibu-kandung-layanan-bank.md
+- title: Measuring the economy independently
+  path: /research/economy-measurement/
+  summary: A three-check measurement framework, followed by applied examples with explicit source and verification limits.
+  status: Proposed design; examples not yet verified to primary sources
+  source: mengukur-ekonomi-independen.md
+- title: BNI Sandbox Tester prototype
+  path: /research/bni-sandbox-tester/
+  summary: A written prototype design and checklist for sandbox balance-read testing; no build or integration test has been run.
+  status: Design only; not executed
+  source: prototipe-bni-sandbox-tester.md
+- title: Assessing bank valuation with public data
+  path: /research/bank-valuation/
+  summary: A research design for valuation and credit-risk checks, with unverified claims separated from verified sources and explicit non-findings.
+  status: Proposal only; no valuation, backtest, or field test completed
+  source: menilai-valuasi-bank-dengan-data-publik.md
